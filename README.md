@@ -1,3 +1,3 @@
 # Go-Programming
 
-1. Basics Of Go Language
+-  Basics Of Go Language
